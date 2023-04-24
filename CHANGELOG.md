@@ -1,3 +1,23 @@
+## Solidus v3.0.0 (2023-04-24)
+
+## Solidus Core
+
+
+## Solidus Backend
+
+
+## Solidus API
+
+
+## Solidus Sample
+
+
+## Solidus
+* Add action step for backport label creation by @rainerdema in https://github.com/rainerdema/solidus/pull/1
+
+**Full Changelog**: https://github.com/rainerdema/solidus/compare/v2.8.0...v3.0.0
+
+
 ## Solidus v3.4.0 (2023-04-21)
 
 ## Solidus Core
